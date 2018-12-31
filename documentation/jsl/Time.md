@@ -3,6 +3,9 @@
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js"></script>
+```
+{% if page.content contains "code" %}
+```
 <script>
 
 var allCodeBlocksElements = $( "code" );
@@ -22,6 +25,9 @@ allCodeBlocksElements.each(function(i) {
   new Clipboard('.btn');
 
 </script>
+```
+{% endif %}
+```
 </head><body>
 <h1>JolieDoc for Port Time</h1>
 <h2>From file <code>time.iol
@@ -322,6 +328,6 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxODg5NTU4NSwtMjA3NzMxODc1Nyw3NT
+eyJoaXN0b3J5IjpbLTU5Mzg3NDkzMiwtMjA3NzMxODc1Nyw3NT
 E2OTUwMzRdfQ==
 -->
