@@ -4,7 +4,24 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js"></script>
 <script>
-</scrio
+```
+var allCodeBlocksElements = $( "code" );
+
+allCodeBlocksElements.each(function(i) {
+ 	// add different id for each code block
+
+	// target	
+  var currentId = "codeblock" + (i + 1);
+  $(this).attr('id', currentId);
+     
+  //trigger
+  var clipButton = '<button class="btn" data-clipboard-target="#' + currentId + '"><img src="https://clipboardjs.com/assets/images/clippy.svg" width="13" alt="Copy to clipboard"></button>';
+     $(this).after(clipButton);
+  });
+ 
+  new Clipboard('.btn');
+```
+</script>
 </head><body>
 <h1>JolieDoc for Port Time</h1>
 <h2>From file <code>time.iol
@@ -305,5 +322,5 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTIwMTA2Myw3NTE2OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbLTIwNzczMTg3NTcsNzUxNjk1MDM0XX0=
 -->
