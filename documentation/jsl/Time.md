@@ -6,13 +6,13 @@
 
 $(function () {
     $(document).on('click', 'code', function () {
+    alert("aaaa")
       $(this).addClass("active")
        textarea =  $("<textarea>").val($(this).html()).height(0).appendTo(document.body).select();
         document.execCommand('copy');
        textarea.remove();
     });
 });
-
 </script>
 </head><body>
 <h1>JolieDoc for Port Time</h1>
@@ -314,6 +314,6 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODM2MTgwMCwtNTkzODc0OTMyLC0yMD
-c3MzE4NzU3LDc1MTY5NTAzNF19
+eyJoaXN0b3J5IjpbMjgzNTk5OTg1LC01OTM4NzQ5MzIsLTIwNz
+czMTg3NTcsNzUxNjk1MDM0XX0=
 -->
