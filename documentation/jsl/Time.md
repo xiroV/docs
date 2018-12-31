@@ -4,7 +4,7 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js"></script>
 <script>
-```
+
 var allCodeBlocksElements = $( "code" );
 
 allCodeBlocksElements.each(function(i) {
@@ -20,7 +20,7 @@ allCodeBlocksElements.each(function(i) {
   });
  
   new Clipboard('.btn');
-```
+
 </script>
 </head><body>
 <h1>JolieDoc for Port Time</h1>
@@ -322,5 +322,6 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzczMTg3NTcsNzUxNjk1MDM0XX0=
+eyJoaXN0b3J5IjpbMTkxODg5NTU4NSwtMjA3NzMxODc1Nyw3NT
+E2OTUwMzRdfQ==
 -->
