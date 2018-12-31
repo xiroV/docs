@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<script src="test2"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <script>
 
 $(function () {
@@ -314,6 +314,6 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUzODEwMjAsLTU5Mzg3NDkzMiwtMj
-A3NzMxODc1Nyw3NTE2OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbLTk0ODM2MTgwMCwtNTkzODc0OTMyLC0yMD
+c3MzE4NzU3LDc1MTY5NTAzNF19
 -->
