@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://github.com/Mottie/GitHub-userscripts/blob/master/github-copy-code-snippet.user.js"></script>
 
 </head>
 
@@ -305,7 +305,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjgyMjczNiw5MTA2ODY2MTMsMjgzNT
+eyJoaXN0b3J5IjpbMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgzNT
 k5OTg1LC01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0
 XX0=
 -->
