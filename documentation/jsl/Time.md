@@ -1,5 +1,7 @@
 <html>
-<head></head><body>
+<head>
+
+</head><body>
 <h1>JolieDoc for Port Time</h1>
 <h2>From file <code>time.iol
 </code></h2>
@@ -298,3 +300,6 @@ InvalidDate
 <pre lang="jolie">type undefined: undefined</pre>
 </body>
 </html>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzUxNjk1MDM0XX0=
+-->
