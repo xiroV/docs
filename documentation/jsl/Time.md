@@ -3,7 +3,7 @@
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script>
-```
+
 $(function () {
     $(document).on('click', 'code', function () {
       $(this).addClass("active")
@@ -13,7 +13,7 @@ $(function () {
     });
 });
 
-<script>
+</script>
 </head><body>
 <h1>JolieDoc for Port Time</h1>
 <h2>From file <code>time.iol
@@ -314,6 +314,6 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDgwMTI4MjUsLTU5Mzg3NDkzMiwtMj
-A3NzMxODc1Nyw3NTE2OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbLTQ2OTYwMDcwNCwtNTkzODc0OTMyLC0yMD
+c3MzE4NzU3LDc1MTY5NTAzNF19
 -->
