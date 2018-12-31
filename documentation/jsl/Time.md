@@ -2,18 +2,7 @@
 <head>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script>
 
-$(function () {
-    $(document).on('click', 'code', function () {
-    alert("aaaa")
-      $(this).addClass("active")
-       textarea =  $("<textarea>").val($(this).html()).height(0).appendTo(document.body).select();
-        document.execCommand('copy');
-       textarea.remove();
-    });
-});
-</script>
 </head>
 
 <body>
@@ -316,6 +305,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkzOD
-c0OTMyLC0yMDc3MzE4NzU3LDc1MTY5NTAzNF19
+eyJoaXN0b3J5IjpbMTUxNjgyMjczNiw5MTA2ODY2MTMsMjgzNT
+k5OTg1LC01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0
+XX0=
 -->
