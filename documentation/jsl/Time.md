@@ -1,6 +1,9 @@
 <html>
 <head>
 
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js"</script>
+
 </head><body>
 <h1>JolieDoc for Port Time</h1>
 <h2>From file <code>time.iol
@@ -301,5 +304,5 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNjk1MDM0XX0=
+eyJoaXN0b3J5IjpbLTg0OTI0NTc5Myw3NTE2OTUwMzRdfQ==
 -->
