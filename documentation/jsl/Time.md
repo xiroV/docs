@@ -2,32 +2,18 @@
 <head>
 
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/clipboard@1/dist/clipboard.min.js"></script>
-```
-{% if page.content contains "code" %}
-```
 <script>
-
-var allCodeBlocksElements = $( "code" );
-
-allCodeBlocksElements.each(function(i) {
- 	// add different id for each code block
-
-	// target	
-  var currentId = "codeblock" + (i + 1);
-  $(this).attr('id', currentId);
-     
-  //trigger
-  var clipButton = '<button class="btn" data-clipboard-target="#' + currentId + '"><img src="https://clipboardjs.com/assets/images/clippy.svg" width="13" alt="Copy to clipboard"></button>';
-     $(this).after(clipButton);
-  });
- 
-  new Clipboard('.btn');
-
-</script>
 ```
-{% endif %}
-```
+$(function () {
+    $(document).on('click', 'code', function () {
+      $(this).addClass("active")
+       textarea =  $("<textarea>").val($(this).html()).height(0).appendTo(document.body).select();
+        document.execCommand('copy');
+       textarea.remove();
+    });
+});
+
+<script>
 </head><body>
 <h1>JolieDoc for Port Time</h1>
 <h2>From file <code>time.iol
@@ -328,6 +314,6 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Mzg3NDkzMiwtMjA3NzMxODc1Nyw3NT
-E2OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbLTE1MDgwMTI4MjUsLTU5Mzg3NDkzMiwtMj
+A3NzMxODc1Nyw3NTE2OTUwMzRdfQ==
 -->
