@@ -14,7 +14,9 @@ $(function () {
     });
 });
 </script>
-</head><body>
+</head>
+
+<body>
 <h1>JolieDoc for Port Time</h1>
 <h2>From file <code>time.iol
 </code></h2>
@@ -314,6 +316,6 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgzNTk5OTg1LC01OTM4NzQ5MzIsLTIwNz
-czMTg3NTcsNzUxNjk1MDM0XX0=
+eyJoaXN0b3J5IjpbOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkzOD
+c0OTMyLC0yMDc3MzE4NzU3LDc1MTY5NTAzNF19
 -->
