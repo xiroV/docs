@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<script src="https://github.com/Mottie/GitHub-userscripts/blob/master/github-copy-code-snippet.user.js"></script>
+<script src="https://github.com/zenorocha/clipboard.js/blob/master/src/clipboard.js"></script>
 
 </head>
 
