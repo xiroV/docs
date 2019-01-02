@@ -1,8 +1,5 @@
 <html>
 <head>
-
-<script src="https://github.com/zenorocha/clipboard.js/blob/master/src/clipboard.js"></script>
-
 </head>
 
 <body>
@@ -305,7 +302,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgzNT
-k5OTg1LC01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0
-XX0=
+eyJoaXN0b3J5IjpbLTE0OTUxODIzNTIsMTk4NTg5MTY1OSw5MT
+A2ODY2MTMsMjgzNTk5OTg1LC01OTM4NzQ5MzIsLTIwNzczMTg3
+NTcsNzUxNjk1MDM0XX0=
 -->
