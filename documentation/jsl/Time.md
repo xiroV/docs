@@ -273,7 +273,7 @@ The node <b>message</b> contains the value sent to the operation
     .minute: [0:59]
     .second: [0:50]
 }</pre>
-<span class="opdoc"><p>The resul node expresses the string format used by the operation to calculate the date <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss" </p>
+<span class="opdoc"><p>The resuling nodes are expessed in terms of the GregorianCalendar  <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss" </p>
 </span>
 <a name="DiffDateRequestType"></a><h3 id="DiffDateRequestType">DiffDateRequestType</h3>
 <pre lang="jolie">type DiffDateRequestType: void { 
@@ -338,11 +338,11 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjIyODMwNSwtOTY5OTcyMTE4LC0yNT
-g2NjQzODgsMjY5ODEzOTc3LC00NzQwOTIwNjAsMTAyMTczNDU3
-MCwtNTM4Njg1MzUzLDEyMTQ2ODIyMDksLTQ4OTM0OTQ1NiwtMT
-A4OTk2NDEwMywtNjQ2NDY0OTMwLC03NTY0OTI1NzEsLTEyNTA4
-NDk0ODQsLTE2NTI5Mzk3NTEsMTg3ODk5NDE1NSwxMjIwMjc1Mz
-c5LDIxMzA0NDIzOTksLTE0OTUxODIzNTIsMTk4NTg5MTY1OSw5
-MTA2ODY2MTNdfQ==
+eyJoaXN0b3J5IjpbMjg5NzExMDYyLDEzMjIyMjgzMDUsLTk2OT
+k3MjExOCwtMjU4NjY0Mzg4LDI2OTgxMzk3NywtNDc0MDkyMDYw
+LDEwMjE3MzQ1NzAsLTUzODY4NTM1MywxMjE0NjgyMjA5LC00OD
+kzNDk0NTYsLTEwODk5NjQxMDMsLTY0NjQ2NDkzMCwtNzU2NDky
+NTcxLC0xMjUwODQ5NDg0LC0xNjUyOTM5NzUxLDE4Nzg5OTQxNT
+UsMTIyMDI3NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5
+ODU4OTE2NTldfQ==
 -->
