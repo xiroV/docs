@@ -286,7 +286,7 @@ The node <b>message</b> contains the value sent to the operation
 }</pre>
 <span class="opdoc"> 
 <p>The nodes <b>time1</b> and <b>time2</b> are expressed as "kk:mm:ss" using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> patten. </p>
-<p>The operatiation will return the differance between time1 and time2 </p></span>
+<p>The operatiation will return the differance between <b>time1<b> and time2 </p></span>
 </span>
 <a name="GetTimestampFromStringRequest"></a><h3 id="GetTimestampFromStringRequest">GetTimestampFromStringRequest</h3>
 <pre lang="jolie">type GetTimestampFromStringRequest: string { 
@@ -332,7 +332,7 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzM0OTM0NywtNDc0MDkyMDYwLDEwMj
+eyJoaXN0b3J5IjpbMTY3MjQ5MDI5OSwtNDc0MDkyMDYwLDEwMj
 E3MzQ1NzAsLTUzODY4NTM1MywxMjE0NjgyMjA5LC00ODkzNDk0
 NTYsLTEwODk5NjQxMDMsLTY0NjQ2NDkzMCwtNzU2NDkyNTcxLC
 0xMjUwODQ5NDg0LC0xNjUyOTM5NzUxLDE4Nzg5OTQxNTUsMTIy
