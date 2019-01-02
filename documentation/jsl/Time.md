@@ -274,6 +274,9 @@ InvalidDate
     .time1: string
     .time2: string
 }</pre>
+<span class="opdoc"> 
+<p>The operatiation will return the differance between time1 and date2 </p></span>
+</span>
 <a name="GetTimestampFromStringRequest"></a><h3 id="GetTimestampFromStringRequest">GetTimestampFromStringRequest</h3>
 <pre lang="jolie">type GetTimestampFromStringRequest: string { 
     .format?: string
@@ -311,8 +314,8 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODgwMjkzOTAsMTg3ODk5NDE1NSwxMj
-IwMjc1Mzc5LDIxMzA0NDIzOTksLTE0OTUxODIzNTIsMTk4NTg5
-MTY1OSw5MTA2ODY2MTMsMjgzNTk5OTg1LC01OTM4NzQ5MzIsLT
-IwNzczMTg3NTcsNzUxNjk1MDM0XX0=
+eyJoaXN0b3J5IjpbNTMyNzk3MjY4LDE4Nzg5OTQxNTUsMTIyMD
+I3NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5ODU4OTE2
+NTksOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkzODc0OTMyLC0yMD
+c3MzE4NzU3LDc1MTY5NTAzNF19
 -->
