@@ -163,7 +163,9 @@ InvalidTimeUnit,&nbsp;<br>
 				
 InvalidTimeUnit
 </pre>
-<span class="opdoc"><p>Schedules a timeout, which can be cancelled using #cancelTimeout from the returned string. Default .timeunit value is MILLISECONDS, .operation default is "timeout".</p></span>
+<span class="opdoc"><p>It set a programmable timeout that allows to call a specific operation when a timeout is triggered
+ <a href="#scheduleTimeoutFullExample">see full example</a></p></span>
+
 <div class="operation-title"><a name="getDateValues"></a><h3 id="getDateValues">getDateValues</h3></div>
 <pre>getDateValues( <a href="#DateValuesRequestType">DateValuesRequestType</a> )( <a href="#DateValuesType">DateValuesType</a> )
  throws
@@ -329,10 +331,10 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDY4MjIwOSwtNDg5MzQ5NDU2LC0xMD
-g5OTY0MTAzLC02NDY0NjQ5MzAsLTc1NjQ5MjU3MSwtMTI1MDg0
-OTQ4NCwtMTY1MjkzOTc1MSwxODc4OTk0MTU1LDEyMjAyNzUzNz
-ksMjEzMDQ0MjM5OSwtMTQ5NTE4MjM1MiwxOTg1ODkxNjU5LDkx
-MDY4NjYxMywyODM1OTk5ODUsLTU5Mzg3NDkzMiwtMjA3NzMxOD
-c1Nyw3NTE2OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbMTMwOTI1NjYxNywxMjE0NjgyMjA5LC00OD
+kzNDk0NTYsLTEwODk5NjQxMDMsLTY0NjQ2NDkzMCwtNzU2NDky
+NTcxLC0xMjUwODQ5NDg0LC0xNjUyOTM5NzUxLDE4Nzg5OTQxNT
+UsMTIyMDI3NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5
+ODU4OTE2NTksOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkzODc0OT
+MyLC0yMDc3MzE4NzU3LDc1MTY5NTAzNF19
 -->
