@@ -239,7 +239,7 @@ InvalidDate
     .timeunit?: string
 }</pre>
 <span class="opdoc"><p>The timeunit node express represents time durations at a given unit of granularity using the <a href="https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/TimeUnit.html"> Java TimeUnit</a> convention. If the node <b>timeunit</b>  is not defined unit is set as MILLISECONDS
-<p>The node operation sets the operation to be call when the timeout is called. If the node <b</p></span>
+<p>The node operation sets the operation to be call when the timeout is called. If the node <b>operation</b> is not defined the default value is <b>timeout<b></p></span>
 <a name="DateValuesRequestType"></a><h3 id="DateValuesRequestType">DateValuesRequestType</h3>
 <pre lang="jolie">type DateValuesRequestType: string { 
     .format?: string
@@ -322,10 +322,10 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDg2NTEyNSwtMTA4OTk2NDEwMywtNj
-Q2NDY0OTMwLC03NTY0OTI1NzEsLTEyNTA4NDk0ODQsLTE2NTI5
-Mzk3NTEsMTg3ODk5NDE1NSwxMjIwMjc1Mzc5LDIxMzA0NDIzOT
-ksLTE0OTUxODIzNTIsMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgz
-NTk5OTg1LC01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MD
-M0XX0=
+eyJoaXN0b3J5IjpbLTEzNTE3Mjg0NzcsLTEwODk5NjQxMDMsLT
+Y0NjQ2NDkzMCwtNzU2NDkyNTcxLC0xMjUwODQ5NDg0LC0xNjUy
+OTM5NzUxLDE4Nzg5OTQxNTUsMTIyMDI3NTM3OSwyMTMwNDQyMz
+k5LC0xNDk1MTgyMzUyLDE5ODU4OTE2NTksOTEwNjg2NjEzLDI4
+MzU5OTk4NSwtNTkzODc0OTMyLC0yMDc3MzE4NzU3LDc1MTY5NT
+AzNF19
 -->
