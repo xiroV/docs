@@ -183,6 +183,7 @@ InvalidDate
 <div class="operation-title"><a name="getDateDiff"></a><h3 id="getDateDiff">getDateDiff</h3></div>
 <pre>getDateDiff( <a href="#DiffDateRequestType">DiffDateRequestType</a> )( <a href="#int">int</a> )
 </pre>
+
 <div class="operation-title"><a name="getTimeDiff"></a><h3 id="getTimeDiff">getTimeDiff</h3></div>
 <pre>getTimeDiff( <a href="#GetTimeDiffRequest">GetTimeDiffRequest</a> )( <a href="#int">int</a> )
 </pre>
@@ -306,7 +307,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMDQ0MjM5OSwtMTQ5NTE4MjM1MiwxOT
-g1ODkxNjU5LDkxMDY4NjYxMywyODM1OTk5ODUsLTU5Mzg3NDkz
-MiwtMjA3NzMxODc1Nyw3NTE2OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbNjQ3MzI5MTM3LDIxMzA0NDIzOTksLTE0OT
+UxODIzNTIsMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgzNTk5OTg1
+LC01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0XX0=
 -->
