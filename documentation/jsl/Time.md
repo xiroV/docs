@@ -302,7 +302,7 @@ The node <b>message</b> contains the value sent to the operation
 <pre lang="jolie">type CurrentDateTimeRequestType: void { 
     .format?: string
 }</pre>
-<span class="opdoc"><p>The format node express the string format output Timestamp value using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss"  </p>
+<span class="opdoc"><p>The <b>format</b> node expresses the string format of the output Timestamp value using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss" </p>
 </span>
 <a name="SetNextTimeOutRequest"></a><h3 id="SetNextTimeOutRequest">SetNextTimeOutRequest</h3>
 <pre lang="jolie">type SetNextTimeOutRequest: int { 
@@ -332,7 +332,7 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMTQ5NDgzNywxMDIxNzM0NTcwLC01Mz
+eyJoaXN0b3J5IjpbLTQ3NDA5MjA2MCwxMDIxNzM0NTcwLC01Mz
 g2ODUzNTMsMTIxNDY4MjIwOSwtNDg5MzQ5NDU2LC0xMDg5OTY0
 MTAzLC02NDY0NjQ5MzAsLTc1NjQ5MjU3MSwtMTI1MDg0OTQ4NC
 wtMTY1MjkzOTc1MSwxODc4OTk0MTU1LDEyMjAyNzUzNzksMjEz
