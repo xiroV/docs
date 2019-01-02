@@ -267,7 +267,7 @@ InvalidDate
     .date2: string
     .date1: string
 }</pre>
-<span class="opdoc"><p>The format node express the format of the two dates using t z   </p></span>
+<span class="opdoc"><p>The format node express the format of the two dates using the <a name Java DateFormat   </p></span>
 <a name="GetTimeDiffRequest"></a><h3 id="GetTimeDiffRequest">GetTimeDiffRequest</h3>
 <pre lang="jolie">type GetTimeDiffRequest: void { 
     .time1: string
@@ -310,7 +310,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTc3NTA5MzcsMTIyMDI3NTM3OSwyMT
+eyJoaXN0b3J5IjpbLTE3MjMwNTM5ODksMTIyMDI3NTM3OSwyMT
 MwNDQyMzk5LC0xNDk1MTgyMzUyLDE5ODU4OTE2NTksOTEwNjg2
 NjEzLDI4MzU5OTk4NSwtNTkzODc0OTMyLC0yMDc3MzE4NzU3LD
 c1MTY5NTAzNF19
