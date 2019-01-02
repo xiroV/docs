@@ -163,7 +163,7 @@ InvalidTimeUnit,&nbsp;<br>
 				
 InvalidTimeUnit
 </pre>
-<span class="opdoc"><p>It set a programmable timeout that allows to call a specific operation when a timeout is triggered <a href="#scheduleTimeoutFullExample">see full example</a></p></span>
+<span class="opdoc"><p>It set a programmable scheduled timeout that allows to call a specific operation when a timeout is triggered <a href="#scheduleTimeoutFullExample">see full example</a></p></span>
 
 <div class="operation-title"><a name="getDateValues"></a><h3 id="getDateValues">getDateValues</h3></div>
 <pre>getDateValues( <a href="#DateValuesRequestType">DateValuesRequestType</a> )( <a href="#DateValuesType">DateValuesType</a> )
@@ -330,10 +330,11 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzODY4NTM1MywxMjE0NjgyMjA5LC00OD
-kzNDk0NTYsLTEwODk5NjQxMDMsLTY0NjQ2NDkzMCwtNzU2NDky
-NTcxLC0xMjUwODQ5NDg0LC0xNjUyOTM5NzUxLDE4Nzg5OTQxNT
-UsMTIyMDI3NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5
-ODU4OTE2NTksOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkzODc0OT
-MyLC0yMDc3MzE4NzU3LDc1MTY5NTAzNF19
+eyJoaXN0b3J5IjpbMTAyMTczNDU3MCwtNTM4Njg1MzUzLDEyMT
+Q2ODIyMDksLTQ4OTM0OTQ1NiwtMTA4OTk2NDEwMywtNjQ2NDY0
+OTMwLC03NTY0OTI1NzEsLTEyNTA4NDk0ODQsLTE2NTI5Mzk3NT
+EsMTg3ODk5NDE1NSwxMjIwMjc1Mzc5LDIxMzA0NDIzOTksLTE0
+OTUxODIzNTIsMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgzNTk5OT
+g1LC01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0XX0=
+
 -->
