@@ -6,7 +6,7 @@
 <h1>JolieDoc for Port Time</h1>
 <h2>General description</h2>
 <pre>
-This native service allows the manipulation of DateTime operation 
+This native service allows the manipulation of DateTime data type with the its typical operations
 </pre>
 <h2>From file <code>time.iol
 </code></h2>
@@ -306,7 +306,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0ODk5MjIwNSwtMTQ5NTE4MjM1MiwxOT
+eyJoaXN0b3J5IjpbMjEzMDQ0MjM5OSwtMTQ5NTE4MjM1MiwxOT
 g1ODkxNjU5LDkxMDY4NjYxMywyODM1OTk5ODUsLTU5Mzg3NDkz
 MiwtMjA3NzMxODc1Nyw3NTE2OTUwMzRdfQ==
 -->
