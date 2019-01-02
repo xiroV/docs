@@ -290,6 +290,8 @@ InvalidDate
 <pre lang="jolie">type CurrentDateTimeRequestType: void { 
     .format?: string
 }</pre>
+<span class="opdoc"><p>The format node express the string format output Timestamp value using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss"   </p>
+</span>
 <a name="SetNextTimeOutRequest"></a><h3 id="SetNextTimeOutRequest">SetNextTimeOutRequest</h3>
 <pre lang="jolie">type SetNextTimeOutRequest: int { 
     .message?: undefined
@@ -318,9 +320,9 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NjQ5MjU3MSwtMTI1MDg0OTQ4NCwtMT
-Y1MjkzOTc1MSwxODc4OTk0MTU1LDEyMjAyNzUzNzksMjEzMDQ0
-MjM5OSwtMTQ5NTE4MjM1MiwxOTg1ODkxNjU5LDkxMDY4NjYxMy
-wyODM1OTk5ODUsLTU5Mzg3NDkzMiwtMjA3NzMxODc1Nyw3NTE2
-OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbODEzMTYwODUyLC03NTY0OTI1NzEsLTEyNT
+A4NDk0ODQsLTE2NTI5Mzk3NTEsMTg3ODk5NDE1NSwxMjIwMjc1
+Mzc5LDIxMzA0NDIzOTksLTE0OTUxODIzNTIsMTk4NTg5MTY1OS
+w5MTA2ODY2MTMsMjgzNTk5OTg1LC01OTM4NzQ5MzIsLTIwNzcz
+MTg3NTcsNzUxNjk1MDM0XX0=
 -->
