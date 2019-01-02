@@ -238,7 +238,7 @@ InvalidDate
     .operation?: string
     .timeunit?: string
 }</pre>
-<span class="opdoc"><p>The timeunit node express represents time durations at a given unit of granularity using the <a href="https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/TimeUnit.html"> Java TimeUnit</a> convention. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy"   </p>
+<span class="opdoc"><p>The timeunit node express represents time durations at a given unit of granularity using the <a href="https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/TimeUnit.html"> Java TimeUnit</a> convention. If the node <b>timeunit</b>  is not defined unit is set as MILLISECONDS
 <p>The operatiation will return the differance between date1 and date2 </p></span>
 <a name="DateValuesRequestType"></a><h3 id="DateValuesRequestType">DateValuesRequestType</h3>
 <pre lang="jolie">type DateValuesRequestType: string { 
@@ -322,9 +322,9 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTczNTkzMzQ2LC02NDY0NjQ5MzAsLTc1Nj
-Q5MjU3MSwtMTI1MDg0OTQ4NCwtMTY1MjkzOTc1MSwxODc4OTk0
-MTU1LDEyMjAyNzUzNzksMjEzMDQ0MjM5OSwtMTQ5NTE4MjM1Mi
-wxOTg1ODkxNjU5LDkxMDY4NjYxMywyODM1OTk5ODUsLTU5Mzg3
-NDkzMiwtMjA3NzMxODc1Nyw3NTE2OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbLTEwODk5NjQxMDMsLTY0NjQ2NDkzMCwtNz
+U2NDkyNTcxLC0xMjUwODQ5NDg0LC0xNjUyOTM5NzUxLDE4Nzg5
+OTQxNTUsMTIyMDI3NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMz
+UyLDE5ODU4OTE2NTksOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkz
+ODc0OTMyLC0yMDc3MzE4NzU3LDc1MTY5NTAzNF19
 -->
