@@ -262,7 +262,7 @@ The node <b>message</b> contains the value sent to the operation
 <pre lang="jolie">type GetDateTimeRequest: long { 
     .format?: string
 }</pre>
-<span class="opdoc"><p>The <b>format</b> node expresses the string format of the output Timestamp value using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss" </p>
+<span class="opdoc"><p>The <b>format</b> node expresses the string format used by the operation to calculate the date <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss" </p>
 </span>
 <a name="GetDateTimeResponse"></a><h3 id="GetDateTimeResponse">GetDateTimeResponse</h3>
 <pre lang="jolie">type GetDateTimeResponse: string { 
@@ -336,11 +336,11 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTk3MjExOCwtMjU4NjY0Mzg4LDI2OT
-gxMzk3NywtNDc0MDkyMDYwLDEwMjE3MzQ1NzAsLTUzODY4NTM1
-MywxMjE0NjgyMjA5LC00ODkzNDk0NTYsLTEwODk5NjQxMDMsLT
-Y0NjQ2NDkzMCwtNzU2NDkyNTcxLC0xMjUwODQ5NDg0LC0xNjUy
-OTM5NzUxLDE4Nzg5OTQxNTUsMTIyMDI3NTM3OSwyMTMwNDQyMz
-k5LC0xNDk1MTgyMzUyLDE5ODU4OTE2NTksOTEwNjg2NjEzLDI4
-MzU5OTk4NV19
+eyJoaXN0b3J5IjpbLTU2NjM3NDA0NSwtOTY5OTcyMTE4LC0yNT
+g2NjQzODgsMjY5ODEzOTc3LC00NzQwOTIwNjAsMTAyMTczNDU3
+MCwtNTM4Njg1MzUzLDEyMTQ2ODIyMDksLTQ4OTM0OTQ1NiwtMT
+A4OTk2NDEwMywtNjQ2NDY0OTMwLC03NTY0OTI1NzEsLTEyNTA4
+NDk0ODQsLTE2NTI5Mzk3NTEsMTg3ODk5NDE1NSwxMjIwMjc1Mz
+c5LDIxMzA0NDIzOTksLTE0OTUxODIzNTIsMTk4NTg5MTY1OSw5
+MTA2ODY2MTNdfQ==
 -->
