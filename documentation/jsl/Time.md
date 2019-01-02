@@ -5,6 +5,9 @@
 <body>
 <h1>JolieDoc for Port Time</h1>
 <h2>General description</h2>
+<pre>
+
+</pre>
 <h2>From file <code>time.iol
 </code></h2>
 <table>
@@ -303,7 +306,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM3NDQ4ODcsLTE0OTUxODIzNTIsMT
+eyJoaXN0b3J5IjpbLTE0NDIzODMzNzQsLTE0OTUxODIzNTIsMT
 k4NTg5MTY1OSw5MTA2ODY2MTMsMjgzNTk5OTg1LC01OTM4NzQ5
 MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0XX0=
 -->
