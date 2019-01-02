@@ -293,7 +293,9 @@ The node <b>message</b> contains the value sent to the operation
     .format?: string
     .language?: string
 }</pre>
-<span class="opdoc"><p>The <b>format</b> node express the string format input Timestamp value (root value) using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss"  </p>
+<span class="opdoc">
+<p>The <b>root</b> value <p>
+<p>The <b>format</b> node expresses the string format of the input Timestamp value (root value) using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss"  </p>
 </span>
 
 <a name="CurrentDateTimeRequestType"></a><h3 id="CurrentDateTimeRequestType">CurrentDateTimeRequestType</h3>
@@ -330,11 +332,11 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMTI4Njg5LDEwMjE3MzQ1NzAsLTUzOD
-Y4NTM1MywxMjE0NjgyMjA5LC00ODkzNDk0NTYsLTEwODk5NjQx
-MDMsLTY0NjQ2NDkzMCwtNzU2NDkyNTcxLC0xMjUwODQ5NDg0LC
-0xNjUyOTM5NzUxLDE4Nzg5OTQxNTUsMTIyMDI3NTM3OSwyMTMw
-NDQyMzk5LC0xNDk1MTgyMzUyLDE5ODU4OTE2NTksOTEwNjg2Nj
-EzLDI4MzU5OTk4NSwtNTkzODc0OTMyLC0yMDc3MzE4NzU3LDc1
-MTY5NTAzNF19
+eyJoaXN0b3J5IjpbLTc3MjA1OTUyMiwxMDIxNzM0NTcwLC01Mz
+g2ODUzNTMsMTIxNDY4MjIwOSwtNDg5MzQ5NDU2LC0xMDg5OTY0
+MTAzLC02NDY0NjQ5MzAsLTc1NjQ5MjU3MSwtMTI1MDg0OTQ4NC
+wtMTY1MjkzOTc1MSwxODc4OTk0MTU1LDEyMjAyNzUzNzksMjEz
+MDQ0MjM5OSwtMTQ5NTE4MjM1MiwxOTg1ODkxNjU5LDkxMDY4Nj
+YxMywyODM1OTk5ODUsLTU5Mzg3NDkzMiwtMjA3NzMxODc1Nyw3
+NTE2OTUwMzRdfQ==
 -->
