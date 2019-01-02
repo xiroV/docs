@@ -273,7 +273,7 @@ The node <b>message</b> contains the value sent to the operation
     .minute: [0:59]
     .second: [0:50]
 }</pre>
-<span class="opdoc"><p>The resuling nodes are expessed in terms of the  <a href="https://docs.oracle.com/javase/7/docs/api/java/util/GregorianCalendar.html"> GregorianCalendar</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss" </p>
+<span class="opdoc"><p>The resuling nodes are expessed in terms of the  <a href="https://docs.oracle.com/javase/7/docs/api/java/util/GregorianCalendar.html"> GregorianCalendar</a> Strandard Field values.
 </span>
 <a name="DiffDateRequestType"></a><h3 id="DiffDateRequestType">DiffDateRequestType</h3>
 <pre lang="jolie">type DiffDateRequestType: void { 
@@ -338,11 +338,11 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc2NDY4MDY3LDEzMjIyMjgzMDUsLTk2OT
-k3MjExOCwtMjU4NjY0Mzg4LDI2OTgxMzk3NywtNDc0MDkyMDYw
-LDEwMjE3MzQ1NzAsLTUzODY4NTM1MywxMjE0NjgyMjA5LC00OD
-kzNDk0NTYsLTEwODk5NjQxMDMsLTY0NjQ2NDkzMCwtNzU2NDky
-NTcxLC0xMjUwODQ5NDg0LC0xNjUyOTM5NzUxLDE4Nzg5OTQxNT
-UsMTIyMDI3NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5
-ODU4OTE2NTldfQ==
+eyJoaXN0b3J5IjpbLTEwOTAxNTUzMTMsMTMyMjIyODMwNSwtOT
+Y5OTcyMTE4LC0yNTg2NjQzODgsMjY5ODEzOTc3LC00NzQwOTIw
+NjAsMTAyMTczNDU3MCwtNTM4Njg1MzUzLDEyMTQ2ODIyMDksLT
+Q4OTM0OTQ1NiwtMTA4OTk2NDEwMywtNjQ2NDY0OTMwLC03NTY0
+OTI1NzEsLTEyNTA4NDk0ODQsLTE2NTI5Mzk3NTEsMTg3ODk5ND
+E1NSwxMjIwMjc1Mzc5LDIxMzA0NDIzOTksLTE0OTUxODIzNTIs
+MTk4NTg5MTY1OV19
 -->
