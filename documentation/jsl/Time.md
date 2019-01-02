@@ -268,7 +268,7 @@ InvalidDate
     .date1: string
 }</pre>
 <span class="opdoc"><p>The format node express the format of the two date terms using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a>. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy"   </p>
-<p>The operatiation will retur</p></span>
+<p>The operatiation will return the differance between date1 and date2 </p></span>
 <a name="GetTimeDiffRequest"></a><h3 id="GetTimeDiffRequest">GetTimeDiffRequest</h3>
 <pre lang="jolie">type GetTimeDiffRequest: void { 
     .time1: string
@@ -311,7 +311,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIyNDUzNTIsMTg3ODk5NDE1NSwxMj
+eyJoaXN0b3J5IjpbLTExODgwMjkzOTAsMTg3ODk5NDE1NSwxMj
 IwMjc1Mzc5LDIxMzA0NDIzOTksLTE0OTUxODIzNTIsMTk4NTg5
 MTY1OSw5MTA2ODY2MTMsMjgzNTk5OTg1LC01OTM4NzQ5MzIsLT
 IwNzczMTg3NTcsNzUxNjk1MDM0XX0=
