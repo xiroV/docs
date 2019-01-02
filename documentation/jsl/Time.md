@@ -238,10 +238,12 @@ InvalidDate
     .operation?: string
     .timeunit?: string
 }</pre>
+<p>The node <b>operation</b> sets the operation to be call when the timeout is called. If the node <b>operation</b> is not defined the default value is set to <b>"timeout"</b> that needs to be defined and implemented in your microservice</p>
+<p>
 <span class="opdoc"><p>The  node <b>timeunit</b> expresses represents time durations at a given unit of granularity using the <a href="https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/TimeUnit.html"> Java TimeUnit</a> convention. If the node <b>timeunit</b>  is not defined unit is set as MILLISECONDS
 <p>The node <b>operation</b> sets the operation to be call when the timeout is called. If the node <b>operation</b> is not defined the default value is set to <b>"timeout"</b> that needs to be defined and implemented in your microservice</p>
 <p>
-t
+The node t 
 </p></span>
 <a name="DateValuesRequestType"></a><h3 id="DateValuesRequestType">DateValuesRequestType</h3>
 <pre lang="jolie">type DateValuesRequestType: string { 
@@ -325,7 +327,7 @@ t
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NjQ4MTUwMywtMTA4OTk2NDEwMywtNj
+eyJoaXN0b3J5IjpbLTY5MTk4OTgwOSwtMTA4OTk2NDEwMywtNj
 Q2NDY0OTMwLC03NTY0OTI1NzEsLTEyNTA4NDk0ODQsLTE2NTI5
 Mzk3NTEsMTg3ODk5NDE1NSwxMjIwMjc1Mzc5LDIxMzA0NDIzOT
 ksLTE0OTUxODIzNTIsMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgz
