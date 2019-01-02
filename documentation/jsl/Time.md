@@ -185,6 +185,7 @@ InvalidDate
 </pre>
 
 <div class="operation-title"><a name="getTimeDiff"></a><h3 id="getTimeDiff">getTimeDiff</h3></div>
+<span class="opdoc"><p>It returns a date differance expessed in millise </p></span>
 <pre>getTimeDiff( <a href="#GetTimeDiffRequest">GetTimeDiffRequest</a> )( <a href="#int">int</a> )
 </pre>
 <div class="operation-title"><a name="getTimestampFromString"></a><h3 id="getTimestampFromString">getTimestampFromString</h3></div>
@@ -307,7 +308,7 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3MzI5MTM3LDIxMzA0NDIzOTksLTE0OT
+eyJoaXN0b3J5IjpbNDU1MzAyNTMyLDIxMzA0NDIzOTksLTE0OT
 UxODIzNTIsMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgzNTk5OTg1
 LC01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0XX0=
 -->
