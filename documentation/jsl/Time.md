@@ -238,6 +238,8 @@ InvalidDate
     .operation?: string
     .timeunit?: string
 }</pre>
+span class="opdoc"><p>The timeunit node express the format of the two date terms using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy"   </p>
+<p>The operatiation will return the differance between date1 and date2 </p></span>
 <a name="DateValuesRequestType"></a><h3 id="DateValuesRequestType">DateValuesRequestType</h3>
 <pre lang="jolie">type DateValuesRequestType: string { 
     .format?: string
@@ -320,9 +322,9 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjQ2NDkzMCwtNzU2NDkyNTcxLC0xMj
-UwODQ5NDg0LC0xNjUyOTM5NzUxLDE4Nzg5OTQxNTUsMTIyMDI3
-NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5ODU4OTE2NT
-ksOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkzODc0OTMyLC0yMDc3
-MzE4NzU3LDc1MTY5NTAzNF19
+eyJoaXN0b3J5IjpbLTg5ODE4NTIzMCwtNjQ2NDY0OTMwLC03NT
+Y0OTI1NzEsLTEyNTA4NDk0ODQsLTE2NTI5Mzk3NTEsMTg3ODk5
+NDE1NSwxMjIwMjc1Mzc5LDIxMzA0NDIzOTksLTE0OTUxODIzNT
+IsMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgzNTk5OTg1LC01OTM4
+NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0XX0=
 -->
