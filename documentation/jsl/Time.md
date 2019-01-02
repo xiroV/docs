@@ -330,11 +330,11 @@ The node <b>message</b> contains the value sent to the operation
 <a name="undefined"></a>
 <pre lang="jolie">type undefined: undefined</pre>
 
-<h2>E</h2>
+<h2>Example List</h2>
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODg1MjQ4MSwyNjk4MTM5NzcsLTQ3ND
+eyJoaXN0b3J5IjpbLTI1ODY2NDM4OCwyNjk4MTM5NzcsLTQ3ND
 A5MjA2MCwxMDIxNzM0NTcwLC01Mzg2ODUzNTMsMTIxNDY4MjIw
 OSwtNDg5MzQ5NDU2LC0xMDg5OTY0MTAzLC02NDY0NjQ5MzAsLT
 c1NjQ5MjU3MSwtMTI1MDg0OTQ4NCwtMTY1MjkzOTc1MSwxODc4
