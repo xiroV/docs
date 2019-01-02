@@ -266,13 +266,14 @@ The node <b>message</b> contains the value sent to the operation
 </span>
 <a name="GetDateTimeResponse"></a><h3 id="GetDateTimeResponse">GetDateTimeResponse</h3>
 <pre lang="jolie">type GetDateTimeResponse: string { 
-    .month: int
+    .month: int  [112]
     .hour: int
     .year: int
     .day: int
     .minute: int
     .second: int
 }</pre>
+
 <a name="DiffDateRequestType"></a><h3 id="DiffDateRequestType">DiffDateRequestType</h3>
 <pre lang="jolie">type DiffDateRequestType: void { 
     .format?: string
@@ -336,7 +337,7 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjM3NDA0NSwtOTY5OTcyMTE4LC0yNT
+eyJoaXN0b3J5IjpbLTk2NzQ3NzIwOSwtOTY5OTcyMTE4LC0yNT
 g2NjQzODgsMjY5ODEzOTc3LC00NzQwOTIwNjAsMTAyMTczNDU3
 MCwtNTM4Njg1MzUzLDEyMTQ2ODIyMDksLTQ4OTM0OTQ1NiwtMT
 A4OTk2NDEwMywtNjQ2NDY0OTMwLC03NTY0OTI1NzEsLTEyNTA4
