@@ -284,7 +284,7 @@ InvalidDate
     .language?: string
 }</pre>
 <span class="opdoc"><p>The format node express the string format input Timestamp value (root value) using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss"   </p>
-<p>The operatiation will return the differance between date1 and date2 </p></span>
+</span>
 
 <a name="CurrentDateTimeRequestType"></a><h3 id="CurrentDateTimeRequestType">CurrentDateTimeRequestType</h3>
 <pre lang="jolie">type CurrentDateTimeRequestType: void { 
@@ -318,8 +318,9 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTA4NDk0ODQsLTE2NTI5Mzk3NTEsMT
-g3ODk5NDE1NSwxMjIwMjc1Mzc5LDIxMzA0NDIzOTksLTE0OTUx
-ODIzNTIsMTk4NTg5MTY1OSw5MTA2ODY2MTMsMjgzNTk5OTg1LC
-01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNzUxNjk1MDM0XX0=
+eyJoaXN0b3J5IjpbLTc1NjQ5MjU3MSwtMTI1MDg0OTQ4NCwtMT
+Y1MjkzOTc1MSwxODc4OTk0MTU1LDEyMjAyNzUzNzksMjEzMDQ0
+MjM5OSwtMTQ5NTE4MjM1MiwxOTg1ODkxNjU5LDkxMDY4NjYxMy
+wyODM1OTk5ODUsLTU5Mzg3NDkzMiwtMjA3NzMxODc1Nyw3NTE2
+OTUwMzRdfQ==
 -->
