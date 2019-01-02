@@ -278,7 +278,7 @@ The node <b>message</b> contains the value sent to the operation
     .date1: string
 }</pre>
 <span class="opdoc"><p>The <b>format</b> node expresses the format of the two date terms using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy"   </p>
-<p>The operatiation will return the differance between date1 and date2 </p></span>
+<p>The operatiation will return the differance between <b>date1</b> and <b>date2</b> </p></span>
 <a name="GetTimeDiffRequest"></a><h3 id="GetTimeDiffRequest">GetTimeDiffRequest</h3>
 <pre lang="jolie">type GetTimeDiffRequest: void { 
     .time1: string
@@ -332,11 +332,11 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDEwMDQ0NjUsLTQ3NDA5MjA2MCwxMD
-IxNzM0NTcwLC01Mzg2ODUzNTMsMTIxNDY4MjIwOSwtNDg5MzQ5
-NDU2LC0xMDg5OTY0MTAzLC02NDY0NjQ5MzAsLTc1NjQ5MjU3MS
-wtMTI1MDg0OTQ4NCwtMTY1MjkzOTc1MSwxODc4OTk0MTU1LDEy
-MjAyNzUzNzksMjEzMDQ0MjM5OSwtMTQ5NTE4MjM1MiwxOTg1OD
-kxNjU5LDkxMDY4NjYxMywyODM1OTk5ODUsLTU5Mzg3NDkzMiwt
-MjA3NzMxODc1N119
+eyJoaXN0b3J5IjpbMTg5MzM0OTM0NywtNDc0MDkyMDYwLDEwMj
+E3MzQ1NzAsLTUzODY4NTM1MywxMjE0NjgyMjA5LC00ODkzNDk0
+NTYsLTEwODk5NjQxMDMsLTY0NjQ2NDkzMCwtNzU2NDkyNTcxLC
+0xMjUwODQ5NDg0LC0xNjUyOTM5NzUxLDE4Nzg5OTQxNTUsMTIy
+MDI3NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5ODU4OT
+E2NTksOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkzODc0OTMyLC0y
+MDc3MzE4NzU3XX0=
 -->
