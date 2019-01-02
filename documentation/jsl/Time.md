@@ -275,7 +275,7 @@ InvalidDate
     .time2: string
 }</pre>
 <span class="opdoc"> 
-
+<p><b>time1</b> and <b>time1</b></p>
 <p>The operatiation will return the differance between time1 and time2 </p></span>
 </span>
 <a name="GetTimestampFromStringRequest"></a><h3 id="GetTimestampFromStringRequest">GetTimestampFromStringRequest</h3>
@@ -315,8 +315,8 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NDEzNzM3NywxODc4OTk0MTU1LDEyMj
-AyNzUzNzksMjEzMDQ0MjM5OSwtMTQ5NTE4MjM1MiwxOTg1ODkx
-NjU5LDkxMDY4NjYxMywyODM1OTk5ODUsLTU5Mzg3NDkzMiwtMj
-A3NzMxODc1Nyw3NTE2OTUwMzRdfQ==
+eyJoaXN0b3J5IjpbMzY5MDE0ODQ5LDE4Nzg5OTQxNTUsMTIyMD
+I3NTM3OSwyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5ODU4OTE2
+NTksOTEwNjg2NjEzLDI4MzU5OTk4NSwtNTkzODc0OTMyLC0yMD
+c3MzE4NzU3LDc1MTY5NTAzNF19
 -->
