@@ -294,7 +294,7 @@ The node <b>message</b> contains the value sent to the operation
     .language?: string
 }</pre>
 <span class="opdoc">
-<p>The <b>root</b> value <p>
+<p>The <b>root</b> value express the Timestamp as a string<p>
 <p>The <b>format</b> node expresses the string format of the input Timestamp value (root value) using the <a href="https://docs.oracle.com/javase/7/docs/api/java/text/SimpleDateFormat.html"> Java DateFormat</a> pattern. If the node <b>format</b>  is not defined the standard used format is "dd/MM/yyyy kk:mm:ss"  </p>
 </span>
 
@@ -332,7 +332,7 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjA1OTUyMiwxMDIxNzM0NTcwLC01Mz
+eyJoaXN0b3J5IjpbLTczMTQ5NDgzNywxMDIxNzM0NTcwLC01Mz
 g2ODUzNTMsMTIxNDY4MjIwOSwtNDg5MzQ5NDU2LC0xMDg5OTY0
 MTAzLC02NDY0NjQ5MzAsLTc1NjQ5MjU3MSwtMTI1MDg0OTQ4NC
 wtMTY1MjkzOTc1MSwxODc4OTk0MTU1LDEyMjAyNzUzNzksMjEz
