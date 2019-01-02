@@ -181,6 +181,7 @@ InvalidDate
 </pre>
 <span class="opdoc"><p>Warning: this is temporary and subject to future change as soon as long is supported by Jolie.</p></span>
 <div class="operation-title"><a name="getDateDiff"></a><h3 id="getDateDiff">getDateDiff</h3></div>
+<span class="opdoc"><p>It returns a date differance expessed in milliseconds  </p></span>
 <pre>getDateDiff( <a href="#DiffDateRequestType">DiffDateRequestType</a> )( <a href="#int">int</a> )
 </pre>
 
@@ -308,8 +309,8 @@ InvalidDate
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MTY4NDM2NCwxMjIwMjc1Mzc5LDIxMz
-A0NDIzOTksLTE0OTUxODIzNTIsMTk4NTg5MTY1OSw5MTA2ODY2
-MTMsMjgzNTk5OTg1LC01OTM4NzQ5MzIsLTIwNzczMTg3NTcsNz
-UxNjk1MDM0XX0=
+eyJoaXN0b3J5IjpbLTE5MTc3NzgyMzQsMTIyMDI3NTM3OSwyMT
+MwNDQyMzk5LC0xNDk1MTgyMzUyLDE5ODU4OTE2NTksOTEwNjg2
+NjEzLDI4MzU5OTk4NSwtNTkzODc0OTMyLC0yMDc3MzE4NzU3LD
+c1MTY5NTAzNF19
 -->
