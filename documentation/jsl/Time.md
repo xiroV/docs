@@ -210,7 +210,8 @@ InvalidTimestamp
 </pre>
 <div class="operation-title"><a name="setNextTimeout"></a><h3 id="setNextTimeout">setNextTimeout</h3></div>
 <p><pre>setNextTimeout( <a href="#SetNextTimeOutRequest">SetNextTimeOutRequest</a> )</pre></p>
-<span class="opdoc"><p>It set a programmable timeout that allows to call a specific operation when a timeout is triggered</p></span>
+<span class="opdoc"><p>It set a programmable timeout that allows to call a specific operation when a timeout is triggered</p>
+ <a href="#setNextTimeout">SetNextTimeOutRequest</a> )</pre></p></span>
 <div class="operation-title"><a name="getTimeFromMilliSeconds"></a><h3 id="getTimeFromMilliSeconds">getTimeFromMilliSeconds</h3></div>
 <pre>getTimeFromMilliSeconds( <a href="#int">int</a> )( <a href="#TimeValuesType">TimeValuesType</a> )
 </pre>
@@ -328,10 +329,10 @@ The node <b>message</b> contains the value sent to the operation
 </body>
 </html>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA4NDM4NjU5LC00ODkzNDk0NTYsLTEwOD
-k5NjQxMDMsLTY0NjQ2NDkzMCwtNzU2NDkyNTcxLC0xMjUwODQ5
-NDg0LC0xNjUyOTM5NzUxLDE4Nzg5OTQxNTUsMTIyMDI3NTM3OS
-wyMTMwNDQyMzk5LC0xNDk1MTgyMzUyLDE5ODU4OTE2NTksOTEw
-Njg2NjEzLDI4MzU5OTk4NSwtNTkzODc0OTMyLC0yMDc3MzE4Nz
-U3LDc1MTY5NTAzNF19
+eyJoaXN0b3J5IjpbLTE5MTg2ODM1MDgsLTQ4OTM0OTQ1NiwtMT
+A4OTk2NDEwMywtNjQ2NDY0OTMwLC03NTY0OTI1NzEsLTEyNTA4
+NDk0ODQsLTE2NTI5Mzk3NTEsMTg3ODk5NDE1NSwxMjIwMjc1Mz
+c5LDIxMzA0NDIzOTksLTE0OTUxODIzNTIsMTk4NTg5MTY1OSw5
+MTA2ODY2MTMsMjgzNTk5OTg1LC01OTM4NzQ5MzIsLTIwNzczMT
+g3NTcsNzUxNjk1MDM0XX0=
 -->
