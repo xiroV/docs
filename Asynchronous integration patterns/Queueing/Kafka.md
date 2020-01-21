@@ -11,7 +11,7 @@ The Jolie Kafka connector does not need to instantiate explicitly, this allows t
         with(req){
             .broker="localhost:9092";
             .clientId="client1";
-            .topic="ProvaJolie1";
+            .topic="MBTE";
             .payload.key = token;
             .payload.value.stockCode="FCA";
             .payload.value.price = 20.0
@@ -19,6 +19,6 @@ The Jolie Kafka connector does not need to instantiate explicitly, this allows t
         sendMessageToTopic@Kafka(req)()
     }
 ```
-
+C
 
 
